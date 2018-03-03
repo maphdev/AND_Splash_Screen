@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Splash Screen</string>
-    <string name="welcome_screen">Welcome Screen</string>
+    <string name="welcome_screen">Popular Movies</string>
+    <string name="success_screen">Yeah ! The splash screen works !</string>
 </resources>
